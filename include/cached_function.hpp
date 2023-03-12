@@ -114,7 +114,7 @@ public:
     return m_function.target<T>();
   }
 
-public:
+private:
   function m_function;
   cache_map m_cache;
 };
