@@ -1,0 +1,7 @@
+BasedOnStyle: LLVM
+
+AlwaysBreakTemplateDeclarations: Yes
+SeparateDefinitionBlocks: Always
+
+Language: Cpp
+Standard: Cpp11
