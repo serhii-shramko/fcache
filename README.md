@@ -6,7 +6,7 @@ C++ function wrapper that cache result
 #include <iostream>
 #include "cached_function.hpp"
 
-// Standart recursive fibonacci implementation.
+// Ordinary recursive fibonacci implementation.
 int fibonacci(int n) {
   if (n <= 1)
     return n;
